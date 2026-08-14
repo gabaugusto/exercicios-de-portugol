@@ -1,5 +1,7 @@
 # Coletivo Educação · Metodologia Ágil
 
+Exemplo de edição
+
 Arquivos:
 - alunos.html — 30 estudantes fictícios para a Sprint 1.
 - sprints.html — roteiro das três sprints + backlog vivo e histórico de decisões.
