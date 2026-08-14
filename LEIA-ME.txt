@@ -1,0 +1,21 @@
+# Coletivo Educação · Metodologia Ágil
+
+Arquivos:
+- alunos.html — 30 estudantes fictícios para a Sprint 1.
+- sprints.html — roteiro das três sprints + backlog vivo e histórico de decisões.
+
+Uso:
+1. Abra `alunos.html` em um navegador.
+2. Use “Levar ao backlog” para registrar situações prioritárias.
+3. Em `sprints.html`, complete hipótese, ação e prioridade.
+4. Na Sprint 2, marque cada decisão como:
+   - 🟢 permaneceu
+   - 🟡 foi alterado
+   - 🔴 foi abandonado
+   - 🔵 apareceu depois
+5. Na Sprint 3, revise novamente. Não apague decisões abandonadas.
+6. O quadro é salvo no `localStorage` do navegador.
+7. O botão “Exportar histórico” baixa um JSON com o backlog.
+
+Observação pedagógica:
+As cores/marcadores descrevem o destino de decisões, não estudantes.
